@@ -7,10 +7,10 @@
 ##  Screenshots
 
 | Calculator | Trainer | Replayer |
-<img width="924" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (1)" src="https://github.com/user-attachments/assets/e8399e07-81de-4c18-8421-cd7a06d6c2d2" />
-<img width="924" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43" src="https://github.com/user-attachments/assets/100926e9-eb97-4f34-9d23-25755bac5b61" />
-<img width="924" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (3)" src="https://github.com/user-attachments/assets/388004eb-9199-4e29-b022-22990a78aa72" />
-<img width="924" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (2)" src="https://github.com/user-attachments/assets/691b9620-0f78-4bbe-86a6-4b6ae65f95db" />
+<img width="400" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (1)" src="https://github.com/user-attachments/assets/e8399e07-81de-4c18-8421-cd7a06d6c2d2" />
+<img width="400" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43" src="https://github.com/user-attachments/assets/100926e9-eb97-4f34-9d23-25755bac5b61" />
+<img width="400" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (3)" src="https://github.com/user-attachments/assets/388004eb-9199-4e29-b022-22990a78aa72" />
+<img width="400" height="2048" alt="WhatsApp Image 2026-04-23 at 10 47 43 (2)" src="https://github.com/user-attachments/assets/691b9620-0f78-4bbe-86a6-4b6ae65f95db" />
 
 
 ##  Features
